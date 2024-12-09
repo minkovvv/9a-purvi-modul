@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\delene\po-golqmo\bin\Debug\po-golqmo.exe.config
+C:\Users\1409-4\source\repos\delene\po-golqmo\bin\Debug\po-golqmo.exe
+C:\Users\1409-4\source\repos\delene\po-golqmo\bin\Debug\po-golqmo.pdb
+C:\Users\1409-4\source\repos\delene\po-golqmo\obj\Debug\po-golqmo.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\delene\po-golqmo\obj\Debug\po-golqmo.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\delene\po-golqmo\obj\Debug\po-golqmo.exe
+C:\Users\1409-4\source\repos\delene\po-golqmo\obj\Debug\po-golqmo.pdb

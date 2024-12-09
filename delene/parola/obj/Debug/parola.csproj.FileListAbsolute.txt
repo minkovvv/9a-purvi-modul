@@ -1,0 +1,2 @@
+C:\Users\1409-4\source\repos\delene\parola\obj\Debug\parola.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\delene\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache

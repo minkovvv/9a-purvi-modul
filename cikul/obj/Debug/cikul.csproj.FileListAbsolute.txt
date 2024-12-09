@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\cikul\bin\Debug\cikul.exe.config
+C:\Users\1409-4\source\repos\cikul\bin\Debug\cikul.exe
+C:\Users\1409-4\source\repos\cikul\bin\Debug\cikul.pdb
+C:\Users\1409-4\source\repos\cikul\obj\Debug\cikul.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\cikul\obj\Debug\cikul.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\cikul\obj\Debug\cikul.exe
+C:\Users\1409-4\source\repos\cikul\obj\Debug\cikul.pdb

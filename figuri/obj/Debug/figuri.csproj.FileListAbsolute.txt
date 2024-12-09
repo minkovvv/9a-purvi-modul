@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\figuri\bin\Debug\figuri.exe.config
+C:\Users\1409-4\source\repos\figuri\bin\Debug\figuri.exe
+C:\Users\1409-4\source\repos\figuri\bin\Debug\figuri.pdb
+C:\Users\1409-4\source\repos\figuri\obj\Debug\figuri.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\figuri\obj\Debug\figuri.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\figuri\obj\Debug\figuri.exe
+C:\Users\1409-4\source\repos\figuri\obj\Debug\figuri.pdb

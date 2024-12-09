@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cikul", "cikul.csproj", "{A3F682BD-36F5-4D6F-A682-7682D834CF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prezcikul", "..\prezcikul\prezcikul.csproj", "{BE2FB71B-DB88-4FB1-85C9-0D8BAD695931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neshto", "..\neshto\neshto.csproj", "{ABAA5B80-AFFB-489C-AFEC-148B7B0D2B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F682BD-36F5-4D6F-A682-7682D834CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F682BD-36F5-4D6F-A682-7682D834CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F682BD-36F5-4D6F-A682-7682D834CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F682BD-36F5-4D6F-A682-7682D834CF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2FB71B-DB88-4FB1-85C9-0D8BAD695931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2FB71B-DB88-4FB1-85C9-0D8BAD695931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2FB71B-DB88-4FB1-85C9-0D8BAD695931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2FB71B-DB88-4FB1-85C9-0D8BAD695931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAA5B80-AFFB-489C-AFEC-148B7B0D2B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAA5B80-AFFB-489C-AFEC-148B7B0D2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAA5B80-AFFB-489C-AFEC-148B7B0D2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAA5B80-AFFB-489C-AFEC-148B7B0D2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1970F2B9-0A1D-4BCE-A1E5-BE1659C66E6A}
+	EndGlobalSection
+EndGlobal

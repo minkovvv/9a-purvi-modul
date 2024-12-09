@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\bin\Debug\kontrolno.exe.config
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\bin\Debug\kontrolno.exe
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\bin\Debug\kontrolno.pdb
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\obj\Debug\kontrolno.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\obj\Debug\kontrolno.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\obj\Debug\kontrolno.exe
+C:\Users\1409-4\source\repos\kontrolno\kontrolno\obj\Debug\kontrolno.pdb

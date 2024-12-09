@@ -1,0 +1,7 @@
+C:\Users\1409-4\source\repos\hokin\hokin\obj\Debug\hokin.csproj.AssemblyReference.cache
+C:\Users\1409-4\source\repos\hokin\hokin\obj\Debug\hokin.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\source\repos\hokin\hokin\bin\Debug\hokin.exe.config
+C:\Users\1409-4\source\repos\hokin\hokin\bin\Debug\hokin.exe
+C:\Users\1409-4\source\repos\hokin\hokin\bin\Debug\hokin.pdb
+C:\Users\1409-4\source\repos\hokin\hokin\obj\Debug\hokin.exe
+C:\Users\1409-4\source\repos\hokin\hokin\obj\Debug\hokin.pdb
